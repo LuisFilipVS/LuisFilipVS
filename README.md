@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LuisFilipVS
-- 👀 I’m interested in Games and programing
+- 👀 I’m interested in programing
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: My contact lfilipevs.contato@gmail.com
 
